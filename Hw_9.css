@@ -1,0 +1,87 @@
+.s{display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    height: 600px;
+    background-color: rgb(212, 79, 31);
+}
+.s1{
+    display: flex
+}
+
+.modal1 {
+    width: auto;
+    height: auto;
+    background-color: rgb(231, 231, 231);
+    padding: 0px 30px;
+    text-align: center;
+    text-align:justify;
+}
+.modal1 h2{
+    text-align: center;
+}
+.modal2{
+    text-align: center;
+    padding-top: 20px;
+    
+}
+.modal2 input{
+    text-align: center;
+    width: 250px;
+    height: 35px;
+    background-color: white;
+    font-size: 20px;
+}   
+.modal3{
+    text-align: center;
+    padding-top: 20px;
+}
+.modal3 input{
+    text-align: center;
+    width: 250px;
+    height: 35px;
+    background-color: rgb(60, 167, 39);
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    border-bottom: 2px solid rgb(19, 128, 15);
+}
+.modal4{
+    text-align: center;
+    padding-top: 25px;
+    color: rgb(212, 79, 31);
+}
+input{
+outline: none;
+border: none;
+}
+.s3,.s2{
+    text-align: center;
+    width: 250px;
+    display: flex;
+    justify-content: space-around;
+    padding: 0px 20px;
+}
+.facebook{
+    text-align: center;
+    width: 90px;
+    padding: 10px 20px;
+    background-color:rgb(51, 51, 190);
+    color: white;
+}
+.twitter{
+    text-align: center;
+    width: 70px;
+    padding: 10px 20px;;
+    background-color: rgb(50, 166, 212);
+    color: white;
+}
+.facebook svg, .twitter svg{
+    color: rgb(255, 255, 255);
+}
+.log{
+    padding: 20px;
+    color: white;
+}
+
+
